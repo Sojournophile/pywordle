@@ -1,4 +1,4 @@
-#pywordle
+# pywordle
 A barebones [Wordle](https://www.nytimes.com/games/wordle/index.html) clone in Python 3.9+.
 Just run play-wordle.py to play.
 
